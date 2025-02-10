@@ -1,7 +1,5 @@
-# CTR_Prediction
-
 ## Background
-### Recommendation Systems
+### CTR Prediction
 *Recommender systems* are systems that provide personalized recommendations for information, items, or content based on user preferences or behavior. These systems are widely used in various fields, such as online shopping, movie and music streaming, social media, news, location recommendations, images, web pages, and books, playing a crucial role in enhancing user experience.
 
 ### Motivation
